@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "hello world"
+Name="matthew"
+
+echo hello world
+sleep 3
+echo what a beautiful day name
